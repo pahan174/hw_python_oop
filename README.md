@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
 # Модуль расчёта и отображения полной информации о тренировках по данным от блока датчиков.
 
 ## Задача
